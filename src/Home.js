@@ -31,7 +31,7 @@ function Home(){
                 <Product 
                         id ="2"
                         title="TAG Heuer Formula 1 Men's Watch"
-                        price={279.99} 
+                        price={3279.99} 
                         image= "https://m.media-amazon.com/images/I/81J7SrzQ+cL._AC_UL640_FMwebp_QL65_.jpg"
                         rating={5} />
                 <Product
