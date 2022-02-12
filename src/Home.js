@@ -43,7 +43,7 @@ function Home(){
                 <Product
                         id ="4"
                         title="Dell Inspiron 700"
-                        price={28.39} 
+                        price={248.39} 
                         image= "https://m.media-amazon.com/images/I/61rQnEKYCkL._AC_UY436_FMwebp_QL65_.jpg"
                         rating={4} />
                 </div>
