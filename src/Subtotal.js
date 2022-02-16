@@ -14,7 +14,6 @@ function Subtotal(){
             renderText={(value)=> (
                 <>
                     <p>
-                        {/* HW */}
                         Subtotal ({basket?.length} items):<storng>{value}</storng>
                     </p>
                     <small className="subtotal__gift">
